@@ -1,0 +1,41 @@
+body
+{background:#FOF8FF;
+}
+#header
+{background:hotpink;
+float:left;
+width:100%;
+}
+#naglowek
+{font-size:4em;
+text-align:center;
+}
+ul
+{float:left;
+padding:0;
+margin:0;
+list-style:none;
+}
+li a 
+{display:block;
+float:left;
+text-align:center;
+font-size:1.2em;
+width:130px;
+text-decoration:none;
+color:#F0F8FF;
+background:blue;
+padding:10px 15px;
+margin:0px 1px 1px 0px;
+border:1px solid narvy;
+border-radius:10px;
+}
+li a:hover
+{color:blue;
+background:aqua;
+border:1px solid;
+}
+#stopka
+{background:#9ACD32;
+text-align:center;
+}
